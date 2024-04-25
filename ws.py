@@ -9,7 +9,6 @@ import time
 
 clientserver_url = "http://localhost:3001"
 # whatsappserver_url = "http://localhost:3000"
-# whatsappserver_url = "https://whatsapp-http-api-dsv5.onrender.com"
 whatsappserver_url = "https://alien.tail2a91d1.ts.net"
 
 
